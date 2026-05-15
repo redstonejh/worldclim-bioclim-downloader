@@ -1,0 +1,16 @@
+# Python cache and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Downloaded WorldClim data and generated run artifacts
+worldclim_archive/
+*.log
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

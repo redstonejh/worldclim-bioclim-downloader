@@ -1,0 +1,4 @@
+url,local_path,file_size,dataset_type,model,scenario,period,download_status
+https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_10m_prec.zip,worldclim_archive/current/base/wc2.1_10m_prec.zip,7235172,current_base,,,,pending
+https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_2.5m_bio.zip,worldclim_archive/current/bioclim/wc2.1_2.5m_bio.zip,658505728,current_bioclim,,,,pending
+https://geodata.ucdavis.edu/cmip6/2.5m/MIROC6/ssp245/wc2.1_2.5m_bioc_MIROC6_ssp245_2021-2040.tif,worldclim_archive/future/cmip6/2.5m/MIROC6/ssp245/wc2.1_2.5m_bioc_MIROC6_ssp245_2021-2040.tif,104857600,future_cmip6,MIROC6,ssp245,2021-2040,pending
